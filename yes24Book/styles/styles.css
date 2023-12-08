@@ -24,7 +24,14 @@
 .book_introduction .right .top .last p {}
 .book_introduction .right .top .last span {}
 .book_introduction .right .top .left {}
-.book_introduction .right .top .left h3 {}
-.book_introduction .right .top .left h3 img {}
-.book_introduction .right .top .left em {}
-.book_introduction .right .top .left p {}
+.book_introduction .right .top .left .left_top {}
+.book_introduction .right .top .left .left_top span h3 {}
+.book_introduction .right .top .left .left_top span h3 img {}
+.book_introduction .right .top .left .left_top span p {}
+.book_introduction .right .top .left .left_top span em {}
+.book_introduction .right .top .left .left_top p {}
+.book_introduction .right .top .left .left_top em {}
+.book_introduction .right .top .left .left_middle {}
+.book_introduction .right .top .left .left_middle p {}
+.book_introduction .right .top .left .left_last {}
+.book_introduction .right .top .right {}
